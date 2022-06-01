@@ -19,6 +19,6 @@ Print triangle - and allow user to set height of it. Like in following case itâ€
 
 Find valid date (MMDDYYYY) from string. For example :-
 
-Hdjsh asd2324234jghjsd hjsdg sdhk **12212021** idf32432 32423 d34234jh dfh
+Hdjsh asd2324234jghjsd hjsdg sdhk `12212021` idf32432 32423 d34234jh dfh
 
 **Solution:** Run `npm run extract_date` to extract date(s) from the string. As a sample, above string is passed which will return the date. It can also return multiple allowed dates is available in the string.
