@@ -21,4 +21,4 @@ Find valid date (MMDDYYYY) from string. For example :-
 
 Hdjsh asd2324234jghjsd hjsdg sdhk `12212021` idf32432 32423 d34234jh dfh
 
-**Solution:** Run `npm run extract_date` to extract date(s) from the string. As a sample, above string is passed which will return the date. It can also return multiple allowed dates is available in the string.
+**Solution:** Run `npm run extract_date` to extract date(s) from the string. As a sample, above string is passed which will return the date. It can also return multiple allowed dates if available in the string.
